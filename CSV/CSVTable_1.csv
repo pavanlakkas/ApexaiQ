@@ -1,0 +1,5 @@
+Windows Server version,Servicing option,Editions,Availability date,Latest build,Mainstream support end date,Extended support end date
+Windows Server 2025,Long-Term Servicing Channel (LTSC),"Datacenter, Standard",01-11-2024,26100.2894,09-10-2029,10-10-2034
+Windows Server 2022,Long-Term Servicing Channel (LTSC),"Datacenter, Standard",18-08-2021,20348.3095,13-10-2026,14-10-2031
+Windows Server 2019 (version 1809),Long-Term Servicing Channel (LTSC),"Datacenter, Standard",13-11-2018,17763.6775,End of servicing,09-01-2029
+Windows Server 2016 (version 1607),Long-Term Servicing Branch (LTSB),"Datacenter, Essentials, Standard",02-08-2016,14393.7699,End of servicing,12-01-2027
