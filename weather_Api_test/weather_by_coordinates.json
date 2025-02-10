@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 75.43,
+        "lat": 20.5
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 303.18,
+        "feels_like": 301.79,
+        "temp_min": 303.18,
+        "temp_max": 303.18,
+        "pressure": 1012,
+        "humidity": 28,
+        "sea_level": 1012,
+        "grnd_level": 958
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 3.25,
+        "deg": 339,
+        "gust": 4.92
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1739192613,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1739151052,
+        "sunset": 1739192057
+    },
+    "timezone": 19800,
+    "id": 1260959,
+    "name": "P\u0101chora",
+    "cod": 200
+}
